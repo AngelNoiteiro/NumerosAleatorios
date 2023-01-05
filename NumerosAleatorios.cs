@@ -1,3 +1,5 @@
+// Simple gerador de números aleatorios
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
